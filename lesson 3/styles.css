@@ -1,0 +1,49 @@
+/* body { 
+text-align: center;
+}
+
+.size-up {
+    font-size: 50pt;
+}
+.rotate {
+    transform: rotate(45deg);
+}
+
+.darkred-cube {
+ width: 100px;
+ height: 100px;
+ background-color: darkred;   
+}
+
+#darkred {
+    color: darkred;
+}
+ */
+ 
+.sky {
+    width: 200px ;
+    height: 200px;
+    border-radius: 50%;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(76, 49, 159);
+    border-width: 7px;
+    width: 10%;
+}
+
+.custom-ul {
+    list-style-type: "✨";
+}
+
+.a {
+    color: rgb(79, 79, 155);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(61, 61, 139);
+text-decoration: underline;
+}
