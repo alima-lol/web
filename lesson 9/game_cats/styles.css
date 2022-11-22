@@ -78,3 +78,56 @@ h1{
     width: 45%;
     margin-bottom: 10px;
 }
+
+.info-grey {
+    color: rgb(240, 219, 25);
+}
+
+.cards {
+    margin-bottom: 50;
+    text-align: center;
+}
+
+button{
+    display: block;
+    margin: auto;
+    width: 200px;
+    margin-top: 25px;
+    border: none;
+    background-color: #469c39;
+    padding: 20px;
+    color: aliceblue;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.new-games {
+    width: 70%;
+    margin: auto;
+    height: 450px;
+}
+
+.new {
+    font-size: 205px;
+   font-weight: bold;
+   text-transform: uppercase;
+   color: #195810;
+   float: left;
+}
+
+ul {
+    list-style-position: none;
+    width: 40%;
+    float: right;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+ol {
+    font-size: 25px;
+    text-transform: capitalize;
+    font-style: normal;
+    margin-left: 50px;
+    margin-bottom: 40px;
+}
