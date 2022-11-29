@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Bad Script', cursive;
+    background-color: rgb(32, 160, 101);
+    color: aliceblue;
+    text-align: center;
+    padding: 50px;
+    letter-spacing: 2px;
+    text-shadow: 0 0 10px rgb(2, 99, 46);
+}
+
+
+
+
+
+
