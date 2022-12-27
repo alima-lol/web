@@ -157,7 +157,9 @@ h1 {
     left: 0;
     width: 60%;
     height: 100%;
-    background-color: var(--yellow);
+    /*background-color: var(--yellow);*/background-color: #ffffff;
+opacity: 0.8;
+background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #ffffff 10px ), repeating-linear-gradient( #FFEE2F55, #FFEE2F );
     z-index: -1;
 }
 
@@ -334,6 +336,7 @@ h1 {
     background-color: #f5f5f5;
     position: relative;
     cursor: pointer;
+    transition: all 0.6s ease;
 }
 
 .vacancy-box:hover {
@@ -446,3 +449,23 @@ box-shadow:  8px 8px 16px #ae8bcb,
 
     filter: invert(36%) sepia(32%) saturate(2188%) hue-rotate(248deg) brightness(98%) contrast(82%);
 }
+
+.news-text {
+    font-size: 24px;
+}
+
+hr {
+    margin: 50px 0;
+}
+
+.glass {
+    background: rgba( 255, 255, 255, 0.3 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 20px );
+-webkit-backdrop-filter: blur( 20px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+padding: 40px;
+margin-bottom: 30px;
+}
+
