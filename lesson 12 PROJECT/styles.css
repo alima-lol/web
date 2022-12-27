@@ -412,7 +412,7 @@ background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #fff
     box-shadow:  8px 8px 16px #d0987a,
                  -8px -8px 16px #ffcea4;
 }
-.news-develop span {
+.news-develop-span {
     color: #ce3c39;
 }
 .news-develop img{
@@ -425,7 +425,7 @@ filter: invert(31%) sepia(16%) saturate(6146%) hue-rotate(336deg) brightness(101
     box-shadow:  8px 8px 16px #69b3c8,
                  -8px -8px 16px #8ff3ff;
 }
-.news-industry span {
+.news-industry-span {
     color: #168e99;
 }
 .news-industry img{
@@ -433,14 +433,14 @@ filter: invert(31%) sepia(16%) saturate(6146%) hue-rotate(336deg) brightness(101
 }   
     
     
-
+    
 .news-team {
     background: #cda3ef;
 box-shadow:  8px 8px 16px #ae8bcb,
              -8px -8px 16px #ecbbff;
 }
 
-.news-team span {
+.news-team-span {
     color: #a052c7;
 }
 
