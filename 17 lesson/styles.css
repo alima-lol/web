@@ -8,7 +8,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 900;
 }
 
-.header, .footer {
+header, footer, .testimonials, .accorion {
     background-color: brown;
     color: aliceblue;
 }
@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header-content {
-    padding-top: 2rem;
+    padding: 5% 10%;
 }
 
 h1 {
@@ -46,4 +46,27 @@ h1 {
 
 .features img {
     width: 70px;
+}
+
+.carousel-text {
+    font-size: 22px;
+    padding: 7% 12%;
+}
+
+.testimonials {
+    padding-bottom: 3%;
+}
+
+.option {
+    display: flex;
+    justify-content: space-around;
+    padding: 5% 0;
+}
+
+.faq {
+    margin: 5% 0;
+}
+
+.footer {
+    text-align: center;
 }
