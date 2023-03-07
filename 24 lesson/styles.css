@@ -1,0 +1,148 @@
+.d {
+    display: flex;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-color: black;
+    
+    
+}
+
+.red {
+    color: #FF0505;
+}
+
+.rama {
+    position: absolute;
+    height: 199px;
+    width: 190px;
+    left: 135px;
+    top: 158px;
+}
+
+
+.butterfly1 {
+    position: absolute;
+    height: 86px;
+    width: 87px;
+    left: 178px;
+    top: 122px;
+    border-radius: 0px;
+
+}
+
+
+.butterfly2 {
+    position: absolute;
+    height: 146px;
+    width: 142px;
+    left: 856px;
+    top: 12px;
+    border-radius: 71px;
+    transform: scale(-1, 1);
+}
+
+.h1 {
+    position: absolute;
+   
+    left: 358px;
+    top: 165px;
+    color: whitesmoke;
+    font-family: 'Jost', sans-serif;
+    
+}
+
+.h2 {
+    position: absolute;
+    left: 388px;
+    top: 198px;
+    color: whitesmoke;
+    font-family: 'Jost', sans-serif;
+
+}
+
+.h3 {
+    position: absolute;
+    
+    left: 249px;
+    top: 215px;
+    color: whitesmoke;
+    font-family: 'Jost', sans-serif;
+
+}
+
+.h4 {
+    position: absolute;
+    color: #FD3E3E;
+    height: 22px;
+    width: 235px;
+    left: 370px;
+    top: 325px;
+    font-family: 'Jost', sans-serif;
+
+
+}
+
+.h5 {
+    position: absolute;
+    height: 22px;
+    width: 49px;
+    left: 258px;
+    top: 347px;
+    color: whitesmoke;
+    font-family: 'Jost', sans-serif;
+
+}
+
+.h6 {
+    position: absolute;
+    height: 22px;
+    width: 78px;
+    left: 369px;
+    top: 347px;
+    color: whitesmoke;
+    font-family: 'Jost', sans-serif;
+
+}
+
+.number {
+    position: absolute;
+    height: 49px;
+    width: 136px;
+    left: 359px;
+    top: 280px;
+    border-radius: 0px;
+
+}
+
+.button1 {
+    position: absolute;
+    background-color: #E25656;
+    color: whitesmoke;
+    height: 24px;
+    width: 100px;
+    left: 498px;
+    top: 295px;
+    border-radius: 0px;
+    font-family: 'Jost', sans-serif;
+    
+}
+
+.button2 {
+    position: absolute;
+    background-color: #F03D3D;
+    color: whitesmoke;
+    height: 70px;
+    width: 70px;
+    left: 926px;
+    top: 462px;
+    border-radius: 50px;
+    font-family: 'Jost', sans-serif;
+}
