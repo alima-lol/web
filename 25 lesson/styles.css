@@ -1,0 +1,100 @@
+body {
+    background-color: whitesmoke;
+    
+}
+
+.A {
+   position: relative;
+   
+   background-color: #5f9ea0;
+   border-radius: 20%;
+   font-size: 36px;
+   padding: 14px 40px;
+}
+
+.Б {
+    position: relative;
+    background-color: #548d8f;
+    border-radius: 20%;
+    font-size: 36px;
+    padding: 14px 40px;
+}
+
+.В {
+    position: relative;
+    background-color: #497879;
+    border-radius: 20%;
+    font-size: 36px;
+    padding: 14px 40px;
+}
+
+.Г {
+    position: relative;
+    background-color: #457374;
+    border-radius: 20%;
+    font-size: 36px;
+    padding: 14px 40px;
+}
+
+.Д {
+    position: relative;
+    background-color: #3d6566;
+    border-radius: 20%;
+    font-size: 36px;
+    padding: 14px 40px;
+}
+
+.A {
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.A:hover:hover {
+    background-color: #d1d1d1;
+    color: #5f9ea0;
+}
+
+
+.Б {
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.Б:hover:hover {
+    background-color: #d1d1d1;
+    color: #548d8f;
+}
+
+
+
+.В {
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.В:hover:hover {
+    background-color: #d1d1d1;
+    color: #497879;
+}
+
+
+.Г {
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.Г:hover:hover {
+    background-color: #d1d1d1;
+    color: #457374;
+}
+
+
+.Д {
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.Д:hover:hover {
+    background-color: #d1d1d1;
+    color: #3d6566;
+}
